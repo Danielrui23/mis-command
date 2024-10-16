@@ -6,4 +6,7 @@
 
 3. git reset . : revertir el git add.
 
-4. git commit -m "primer commit"
+4. git commit -m "primer commit" : salvo o guardo todos los cambios.
+
+5. git checkout -- . : revierto cualquier tipo de cambio hecho, hasta el ultimo commit. (Es como un Ctrl + Z).
+
