@@ -10,3 +10,9 @@
 
 5. git checkout -- . : revierto cualquier tipo de cambio hecho, hasta el ultimo commit. (Es como un Ctrl + Z).
 
+6. git log : muestra todo el listado de los commit.
+
+7. git commit --ammend : permite editar el nombre del ultimo commit. Se abre la terminal, hago el cambio, preciono ESC y escribo ````:wq!``` y presiono Enter.
+
+``RAMAS``
+8. git checkout -b rama-heroes
