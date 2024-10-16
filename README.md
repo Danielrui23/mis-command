@@ -15,4 +15,5 @@
 7. git commit --ammend : permite editar el nombre del ultimo commit. Se abre la terminal, hago el cambio, preciono ESC y escribo ````:wq!``` y presiono Enter.
 
 ``RAMAS``
-8. git checkout -b rama-heroes
+8. git checkout -b rama-heroes : creo una nueva rama, ademas de la master en la que estoy trabajando pricipalmente.
+9. git branch : muestra todas las ramas.
