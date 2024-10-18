@@ -12,11 +12,11 @@
 
 6. ``git log`` : muestra todo el listado de los commit.
 
-7. ``git commit --ammend`` : permite editar el nombre del ultimo commit. Se abre la terminal, hago el cambio, preciono ESC y escribo ````:wq!``` y presiono Enter.
+7. ``git commit --ammend`` : permite editar el nombre del ultimo commit. Se abre la terminal, hago el cambio, preciono ESC y escribo :wq! y Enter.
 
 ``RAMAS``
 
-8. ``git checkout -b rama-heroes`` : creo una nueva rama, ademas de la master en la que estoy trabajando pricipalmente.
+8. ``git checkout -b rama-heroes`` : creo una nueva rama, ademas de la master en la que estoy trabajando principalmente.
 
 9. ``git branch`` : muestra todas las ramas.
 
@@ -28,4 +28,4 @@
 
 13. ``git push`` : mandar/subir los cambios al repositorio de Github.
 
-14. ``git commit -am 'nombre del commit'``: combina los comandos ```git add .  + git commit -m ``` en un solo comando. 
+14. ``git commit -am 'nombre del commit'``: combina los comandos ```git add .```  y ```git commit -m ``` en un solo comando. 
