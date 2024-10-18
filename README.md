@@ -16,7 +16,7 @@
 
 ``RAMAS``
 
-8. ``git checkout -b rama-heroes`` : creo una nueva rama, ademas de la master en la que estoy trabajando principalmente.
+8. ``git checkout -b nombre de la rama`` : creo una nueva rama, ademas de la master en la que estoy trabajando principalmente.
 
 9. ``git branch`` : muestra todas las ramas.
 
