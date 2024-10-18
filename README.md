@@ -15,10 +15,17 @@
 7. git commit --ammend : permite editar el nombre del ultimo commit. Se abre la terminal, hago el cambio, preciono ESC y escribo ````:wq!``` y presiono Enter.
 
 ``RAMAS``
+
 8. git checkout -b rama-heroes : creo una nueva rama, ademas de la master en la que estoy trabajando pricipalmente.
 
 9. git branch : muestra todas las ramas.
 
 10. git checkout master : me muevo a la rama principal.
 
-11. 
+11. git merge 'nombre de la rama' : se unen los cambios a la rama principal.
+
+12. git branch -d 'nombre de la rama' : eliminar alguna rama determinada.
+
+13. git push : mandar/subir los cambios al repositorio de Github.
+
+14. git commit -am 'nombre del commit': combina los comandos ```git add .  + git commit -m ``` en un solo comando. 
